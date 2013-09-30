@@ -1,0 +1,3 @@
+[XSUtil]
+generate_ppport_h = 1
+cc_warnings = 1
